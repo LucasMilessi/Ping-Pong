@@ -1,10 +1,17 @@
 body{
     background-color: black;
+    background-image: url("https://www.solofondos.com/wp-content/uploads/2015/11/21omxpw.jpg");
 }
 h1{
-    font-style: inherit;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: yellow;
 }
 canvas{
     background-color: yellow;   
+    background-image: url("https://dbdzm869oupei.cloudfront.net/img/sticker/preview/10870.png");
+}
+div{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    color: black;
 }
